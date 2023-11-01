@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    margin: 0px;
+    padding-left: 75px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(34, 31, 31);
+}
+
+li{
+    padding: 18px;
+}
+
+.logo-img{
+    height:50px;
+}
+
+.nav-list a:hover{
+    color: red;
+    background-color:aliceblue;
+}
+
+.nav-list a.active{
+    color: red;   
+}
+
+.list{
+    margin-top: 15px;
+}
+
+.navbar{
+    padding-top: 0px;
+    margin: 0px;
+}
+
+.appoinment-img{
+    object-fit: fill;
+}
+

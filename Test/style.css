@@ -1,0 +1,42 @@
+.firsth1{
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.headings{
+    color: red;
+    text-align: center;
+}
+
+.ordered{
+    background-color:brown;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.unordered{
+    background-color:blueviolet;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.ordered-inside{
+    background-color: bisque;
+}
+
+.unordered-inside{
+    background-color: aliceblue;
+    margin:10px;
+}
+
+
+
+
+
+
+

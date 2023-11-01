@@ -1,0 +1,93 @@
+.banner{
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text{
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    color: #211E1E;
+    text-align: left;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.banner-text{
+    font-size: 65px;
+    margin-bottom: 25px;
+}
+
+.button{
+    color: white;
+    border:1px solid #17C1A3;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #17C1A3;
+    border-radius: 7px;
+    position: absolute;
+    top: 350px;
+    left: 200px;
+    box-shadow: 0px 1px gray;
+}
+
+.play-button{
+    position: absolute;
+    top: 358px;
+    left: 450px;
+}
+
+input{
+    padding: 20px;
+    margin: 10px;
+    padding-right: 125px;
+}
+
+.appoinment-form{
+    position: absolute;
+    top: 550px;
+    left: -187px;
+    margin-left: 350px;
+    margin-right: auto;
+    border: 5px solid white;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    box-shadow: 0px 1px gray;
+}
+
+.booking-h3{
+    color: #211E1E;
+    padding-left: 10px;
+}
+
+.long{
+    position: absolute;
+    top: 150px;
+    left: 720px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+}
+
+select{
+    padding: 20px;
+    margin: 10px;
+    padding-right: 170px;
+}
+
+.dctr{
+    padding-right: 197px;
+}

@@ -1,0 +1,53 @@
+.departments{
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.dept-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.arrow{
+   height: 10px;
+}
+
+.dept-card{
+    display: flex;
+    width: 53%;
+}
+
+.dept-card-1{
+    width: 50%;
+}
+
+.dept-card-2{
+    width: 50%;
+}
+
+.dept-card-3{
+    width: 50%;
+}
+
+.read-more{
+    color:rgb(43, 43, 119);
+}
+
+.why{
+    background-color: #F0FBFF;
+    position: relative;
+    margin-top: 100px;
+}
+
+.doctor-group{
+    
+}
+
+
+
+
+
+
+
