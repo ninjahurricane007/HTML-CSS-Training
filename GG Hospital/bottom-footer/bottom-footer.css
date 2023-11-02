@@ -76,7 +76,8 @@
 .footer{
     margin-left: 125px;
     margin-right: 125px;
-    margin-top: 75px;
+    margin-top: 25px;
+    text-align: left;
 }
 
 .footer-top{
@@ -103,18 +104,18 @@
 
 .address{
     /* flex: 1; */
-    margin-right: 93px;
+    margin-right: 88px;
     margin-left: 25px;
 }
 
 .phone{
     /* flex: 1; */
-    margin-right: 93px;
+    margin-right: 88px;
 }
 
 .mail{
     /* flex: 1; */
-    margin-right: 93px;
+    margin-right: 88px;
 }
 
 .social{
@@ -125,7 +126,7 @@
 .mail-icon{
     width: 15px;
     max-width: 100%;
-    top: 4265px;
+    top: 4260px;
     left: 725px;
     position: absolute;
 }
@@ -134,7 +135,7 @@
     width: 12px;
     max-width: 100%;
     position: absolute;
-    top: 4265px;
+    top: 4260px;
     left: 550px;
 }
 
@@ -142,7 +143,7 @@
     width: 12px;
     max-width: 100%;
     position: absolute;
-    top: 4265px;
+    top: 4260px;
     left: 125px;
 }
 
@@ -158,6 +159,6 @@
     padding-right: 20px;
 }
 
-.footer{
+.footer-copyright{
     text-align: center;
 }
