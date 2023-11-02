@@ -1,0 +1,163 @@
+.subscribe{
+    background-color: #EAF2FF;
+}
+
+.subscribe-banner{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 500px;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-text-email{
+    height:fit-content;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.email-field{
+    padding-right: 175px;
+}
+
+.email{
+    position: absolute;
+    top:3790px;
+    left: 725px;
+    z-index: 10;
+}
+
+.banner-text-h2{
+    font-size: 25px;
+}
+
+.banner-image{
+    width: 100%;
+    top:551%;
+    background-color: #EAF2FF;
+}
+
+.banner-img{
+    width: 80%;
+    margin-left: 130px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    /* position: relative; */
+}
+
+.subscribe-btn{
+    color: white;
+    border:1px solid #17C1A3;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #17C1A3;
+    border-radius: 7px;
+    box-shadow: 0px 1px gray;
+}
+
+.btn{
+    position: absolute;
+    top: 3825px;
+    left: 975px;
+    z-index: 10;
+}
+
+.footer-wrap{
+    background-color: #F9FAFA;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+
+.footer{
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 75px;
+}
+
+.footer-top{
+    display: flex;
+}
+
+.logo{
+    flex:1;
+    margin-right: 200px;
+}
+
+.about{
+    flex:1;
+    margin-right: 50px;
+}
+
+.legal{
+    flex:1;
+}
+
+.footer-bottom{
+    display: flex;
+}
+
+.address{
+    /* flex: 1; */
+    margin-right: 93px;
+    margin-left: 25px;
+}
+
+.phone{
+    /* flex: 1; */
+    margin-right: 93px;
+}
+
+.mail{
+    /* flex: 1; */
+    margin-right: 93px;
+}
+
+.social{
+    /* flex: 1; */
+    padding-right: 0px;
+}
+
+.mail-icon{
+    width: 15px;
+    max-width: 100%;
+    top: 4265px;
+    left: 725px;
+    position: absolute;
+}
+
+.phone-icon{
+    width: 12px;
+    max-width: 100%;
+    position: absolute;
+    top: 4265px;
+    left: 550px;
+}
+
+.home-icon{
+    width: 12px;
+    max-width: 100%;
+    position: absolute;
+    top: 4265px;
+    left: 125px;
+}
+
+.icon-1{
+    padding-right: 20px;
+}
+
+.icon-2{
+    padding-right: 20px;
+}
+
+.icon-3{
+    padding-right: 20px;
+}
+
+.footer{
+    text-align: center;
+}

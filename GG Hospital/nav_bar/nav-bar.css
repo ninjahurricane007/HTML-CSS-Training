@@ -7,7 +7,8 @@ body{
     list-style-type: none;
     display: flex;
     margin: 0px;
-    padding-left: 75px;
+    padding-left: 70px;
+    padding-right: 75px;
 }
 
 a{
@@ -21,6 +22,10 @@ li{
 
 .logo-img{
     height:50px;
+}
+
+.logo{
+    margin-right: 0px;
 }
 
 .nav-list a:hover{
